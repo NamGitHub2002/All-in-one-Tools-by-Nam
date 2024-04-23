@@ -1,11 +1,11 @@
 | current readme.md version |
 |---------------------------|
-| 1.84                      |
+| 1.86                      |
 # OptimizedTools 
 ![logo](https://github.com/NamGitHub2002/OptimizedTools/assets/120299835/282563d8-a156-4ea6-a5d7-e49afd2a8729)
 
 # Status
-![status](https://img.shields.io/badge/status-okay-blue)
+![status](https://img.shields.io/badge/status-dead-red)
 [![ver](https://img.shields.io/badge/version-0.3.3.0_lastet-black)](https://github.com/NamGitHub2002/OptimizedTools/releases)
 ![code](https://img.shields.io/badge/code_quality-good%3A_B-green)
 ![state](https://img.shields.io/badge/state-broke-red)
