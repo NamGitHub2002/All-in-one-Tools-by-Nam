@@ -1,9 +1,15 @@
 > [!WARNING]
-> # Will available again in May, soon.
+> This project has been terminated and abandoned, there will be no updates coming and no bug fixes, no people to maintain the project.
+> This is the last nightly/stable version before this project is archived.
+> https://github.com/NamOpt/OptimizedTools/releases/tag/4th_a
+
+> [!CAUTION]
+> If you use this software without bug fixes and security patches, then this software is not safe to have on your computer. Please remove the software from your computer, if you agree with your computer reduces security by 1 layer, this is the final version containing hotfix.
+> https://github.com/NamOpt/OptimizedTools/releases/tag/4th_a
 
 | current readme.md version |
 |---------------------------|
-| 1.87                      |
+| 1.89                      |
 # OptimizedTools 
 ![logo](https://github.com/NamGitHub2002/OptimizedTools/assets/120299835/282563d8-a156-4ea6-a5d7-e49afd2a8729)
 
