@@ -1,6 +1,6 @@
 ---
 name: Asking for features
-about: Asking for this features (example: install microsoft store,..)
+about: Asking for this features, example: install microsoft store,...
 title: Need asking for features
 labels: question
 assignees: NamGitHub2002
