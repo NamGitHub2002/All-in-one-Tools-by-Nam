@@ -1,8 +1,8 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: New bug!
-labels: bug
+name: Question for features
+about: Any question for new/old features
+title: Question for [features]
+labels: question
 assignees: NamGitHub2002
 
 ---
