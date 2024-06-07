@@ -2,7 +2,7 @@
 name: Improve website
 about: Create a report to help us improve our webiste (https://optimizedtools.tempisite.com/)
 title: Idea to improve the website
-labels: bug
+labels: website features/idea
 assignees: NamGitHub2002
 
 ---
