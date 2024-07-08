@@ -12,7 +12,7 @@
 ![logo](https://github.com/NamGitHub2002/OptimizedTools/assets/120299835/282563d8-a156-4ea6-a5d7-e49afd2a8729)
 
 # Status
-![status](https://img.shields.io/badge/status-no_status-blue)
+![status](https://img.shields.io/badge/status-working-blue)
 [![ver](https://img.shields.io/badge/version-0.4.4.0_lastet-black)](https://github.com/NamGitHub2002/OptimizedTools/releases)
 ![code](https://img.shields.io/badge/code_quality-A+-green)
 ![tools](https://img.shields.io/badge/tools_version-lastet-blue)
