@@ -55,11 +55,11 @@
 
 - **Optimizer** by hellzerg: https://github.com/hellzerg/optimizer
 - **winutil** by Chris Titus Tech: https://github.com/ChrisTitusTech/winutil
-- **Bloatnosy** by builtbybel: https://github.com/builtbybel/BloatyNosy
+- **Winpliot** by builtbybel: https://github.com/builtbybel/Winpilot
 - **Windows10Debloater** by Sycnex: https://github.com/Sycnex/Windows10Debloater
-- **HoneCtrl** by luke-beep: https://github.com/luke-beep/HoneCtrl
+- **WinClean** by 5cover: https://github.com/5cover/WinClean
 - **XToolBox** by xemulat: https://github.com/xemulat/XToolbox
-- **Harden Debloat** by simeononsecurity: https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat
+- **WinMemoryCleaner** by IgorMundstein: https://github.com/IgorMundstein/WinMemoryCleaner
 - **Microsoft Activation Scripts** by WindowsAddict: https://github.com/massgravel/Microsoft-Activation-Scripts
 
 </details>
