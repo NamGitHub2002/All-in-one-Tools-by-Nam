@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Google Chrome",
+    "description": "A more simple, secure, and faster web browser than ever, with Google’s smarts built-in.",
+    "WingetID": "Google.Chrome"
+  },
+  {
+    "name": "Mozilla Firefox",
+    "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
+    "WingetID": "Mozilla.Firefox"
+  },
+  {
+    "name": "Arc",
+    "description": "Arc is a new browser that shapes itself to how you use the internet. It offers Spaces, Profiles, Split View, Themes, and more to organize and customize your online experience..",
+    "WingetID": "TheBrowserCompany.Arc"
+  },
+  {
+    "name": "Opera",
+    "description": " The Opera browser includes everything you need for private, safe, and efficient browsing, along with a variety of unique features to enhance your capabilities online.",
+    "WingetID": "Opera.Opera"
+  },
+  {
+    "name": "Vivaldi",
+    "description": "Web browser based on Chromium with added features inspired by Opera.",
+    "WingetID": "VivaldiTechnologies.Vivaldi"
+  },
+   {
+    "name": "7-zip",
+    "description": "Free and open source file archiver with a high compression ratio.",
+    "WingetID": "7Zip.7zip"
+  },
+    {
+    "name": "Notepad++",
+    "description": "Notepad++ is a free source code editor that supports several languages.",
+    "WingetID": "Notepad++.Notepad++"
+  },
+   {
+    "name": "Adobe Acrobat Reader DC",
+    "description": "The free global standard for reliably viewing, printing, signing, and commenting on PDF documents.",
+    "WingetID": "Adobe.Acrobat.Reader.64-bit"
+  },
+    {
+    "name": "IrfanView",
+    "description": "Fast and compact image viewer and converter.",
+    "WingetID": "IrfanSkiljan.IrfanView"
+  },
+]

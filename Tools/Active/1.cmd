@@ -1,12 +1,12 @@
-@set masver=2.5
+@set masver=2.6
 @setlocal DisableDelayedExpansion
 @echo off
 
 
-
+::
 ::============================================================================
 ::
-::   This script is a part of 'Microsoft_Activation_Scripts' (MAS) project.
+::   This script is a part of 'Microsoft-Activation-Scripts' (MAS) project.
 ::
 ::   Homepage: mass grave[.]dev
 ::      Email: windowsaddict@protonmail.com
@@ -185,7 +185,7 @@ goto dk_done
 
 ::========================================================================================================================================
 
-::  Fix for the special characters limitation in path name
+::  Fix special characters limitation in path name
 
 set "_work=%~dp0"
 if "%_work:~-1%"=="\" set "_work=%_work:~0,-1%"
@@ -219,7 +219,7 @@ goto dk_done
 %nul1% fltmc || (
 if not defined _elev %psc% "start cmd.exe -arg '/c \"!_PSarg:'=''!\"' -verb runas" && exit /b
 %eline%
-echo This script requires admin privileges.
+echo This script needs admin rights.
 echo To do so, right click on this script and select 'Run as administrator'.
 goto dk_done
 )
@@ -1089,7 +1089,7 @@ set error=1
 
 reg query "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\Plugins\Objects\msft:rm/algorithm/hwid/4.0" /f ba02fed39662 /d %nul% || (
 call :dk_color %Red% "Checking SPP Registry Key               [Incorrect ModuleId Found]"
-call :dk_color %Blue% "Possibly Caused By Gaming Spoofers. Help: %mas%troubleshoot"
+call :dk_color2 %Blue% "Possibly Caused By Gaming Spoofers." %_Yellow% " Help - %mas%issues_due_to_gaming_spoofers"
 set error=1
 set showfix=1
 )

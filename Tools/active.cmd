@@ -3,7 +3,7 @@ mode 76, 30
 title OptimizedTools by Nam - MAS
 cls
 echo:
-echo:                         [31mOp[0m[33mti[0m[32mmi[0m[36mzedTools[0m [beta]
+echo:                           [31mOp[0m[33mti[0m[32mmi[0m[36mzedTools[0m [33m[test][0m
 echo:             __________________________________________________      
 echo:
 echo:                 Microsoft Activation Scripts:
@@ -45,4 +45,4 @@ cd..
 :5
 cd..
 cd Main
-main.cmd
+main2.cmd

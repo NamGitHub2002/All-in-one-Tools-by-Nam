@@ -1,21 +1,16 @@
-@set masver=2.5
+@set masver=2.6
 @setlocal DisableDelayedExpansion
 @echo off
 
 
-
+::
 ::=================================================================================================
 ::
-::  Online KMS Script is a fork of @abbodi1406's KMS_VL_ALL  forums.mydigitallife.net/posts/838808
-::  
-::  This fork's purpose is to avoid having any KMS binary files and activate Windows/Office using 
-::  only transparent batch script with online public KMS servers.
+::  This is a fork of @abbodi1406's KVA  forums.mydigitallife.net/posts/838808
 ::_____________________________________
 ::
-::  Online KMS Activation Script is a part of 'Microsoft_Activation_Scripts' (MAS) project.
-::  
-::  Homepage: mass grave[.]dev
-::     Email: windowsaddict@protonmail.com
+::   Homepage: mass grave [.] dev
+::      Email: windowsaddict@protonmail.com
 ::  
 ::=================================================================================================
 
@@ -175,7 +170,7 @@ goto Done
 
 ::========================================================================================================================================
 
-::  Fix for the special characters limitation in path name
+::  Fix special characters limitation in path name
 
 set "_work=%~dp0"
 if "%_work:~-1%"=="\" set "_work=%_work:~0,-1%"
@@ -210,7 +205,7 @@ goto Done
 %nul1% fltmc || (
 if not defined _elev %psc% "start cmd.exe -arg '/c \"!_PSarg:'=''!\"' -verb runas" && exit /b
 %nceline%
-echo This script requires admin privileges.
+echo This script needs admin rights.
 echo To do so, right click on this script and select 'Run as administrator'.
 goto Done
 )
